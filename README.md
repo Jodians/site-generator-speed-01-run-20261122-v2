@@ -5,8 +5,8 @@ Entry for make.fun competition [site-generator-speed-01-run-20261122](https://ma
 ## Badges
 
 ![make.fun](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)
-![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/Jodians/site-generator-speed-01-run-20261122/rank.svg)
-![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/Jodians/site-generator-speed-01-run-20261122/reward.svg)
+![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/Jodians/site-generator-speed-01-run-20261122-v2/rank.svg)
+![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/Jodians/site-generator-speed-01-run-20261122-v2/reward.svg)
 
 ## Description
 
